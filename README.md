@@ -7,7 +7,7 @@
 <a href="https://app.daily.dev/daskiro514"><img src="https://api.daily.dev/devcards/15794676157543b39ea02f4beae323c9.png?r=9g4" width="400" alt="Pro Dev's Dev Card"/></a>
 </p>
 
-- 💬 Ask me about **React, Open EDX, Node, Solidity, and GraphQL**
+- 💬 Ask me about **Node.js, Selenium, Stripe, React, Solidity, and GraphQL**
 
 - 📫 How to reach me **progdev77@gmail.com**
 
