@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Welcom to my Github profile</h1>
 <h3>👀 Open to work!</h3>
-<h4 align="center">I am a passionate Backend and Full Stack developer who loves new challenges and cutting-edge techs. With proven knowledge of IT programming, web and strategy, I have +9 years of experiences in web & app program, project management skills, and technical support. Beautiful and attractive frontend build and powerful & fast backend logic are my major concern.</h4>
+<h4 align="center">I am a passionate Backend and Full Stack developer who loves new challenges and cutting-edge techs. With proven knowledge of IT programming, web and strategy, I have +9 years of experiences in website development, project management skills, and technical support. Beautiful and attractive frontend build and powerful & fast backend logic are my major concern.</h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milos-rad" alt="milos-rad" /></a> </p>
 <p align="center">
