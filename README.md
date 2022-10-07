@@ -2,7 +2,7 @@
 <h3>👀 Open to work!</h3>
 <h4 align="center">I am a passionate Backend and Full Stack developer who loves new challenges and cutting-edge techs. With proven knowledge of IT programming, web and strategy, I have +9 years of experiences in website development, project management skills, and technical support. Beautiful and attractive frontend build and powerful & fast backend logic are my major concern.</h4>
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=pro-dev" alt="pro-dev" /></p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=milos-rad" alt="pro-dev" /></p>
 <p align="center">
 <a href="https://app.daily.dev/daskiro514"><img src="https://api.daily.dev/devcards/15794676157543b39ea02f4beae323c9.png?r=vf8" width="400" alt="Pro Dev's Dev Card"/></a>
 </p>
