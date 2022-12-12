@@ -4,7 +4,7 @@
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=daskiro514" alt="pro-dev" /></p>
 <p align="center">
-<a href="https://app.daily.dev/daskiro514"><img src="https://api.daily.dev/devcards/15794676157543b39ea02f4beae323c9.png?r=npd" width="400" alt="Pro Dev's Dev Card"/></a>
+<a href="https://app.daily.dev/daskiro514"><img src="https://api.daily.dev/devcards/15794676157543b39ea02f4beae323c9.png?r=nly" width="400" alt="Pro Dev's Dev Card"/></a>
 </p>
 
 - 💬 Ask me about **Node.js, Selenium, Stripe, React, Solidity, and GraphQL**
