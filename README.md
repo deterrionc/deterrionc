@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, Welcom to my Github profile</h1>
+<img style="width: 100%" src="https://capsule-render.vercel.app/api?text=Full%20Stack%20Engineer&animation=fadeIn&type=waving&color=gradient&height=100"/>
 <h3>👀 Open to work!</h3>
 <h4 align="center">I am a passionate Backend and Full Stack developer who loves new challenges and cutting-edge techs. With proven knowledge of IT programming, web and strategy, I have +9 years of experiences in website development, project management skills, and technical support. Beautiful and attractive frontend build and powerful & fast backend logic are my major concern.</h4>
 
