@@ -2,7 +2,20 @@
 <h3>👀 Open to work!</h3>
 <h4 align="center">I am a passionate Backend and Full Stack developer who loves new challenges and cutting-edge techs. With proven knowledge of IT programming, web and strategy, I have +9 years of experiences in website development, project management skills, and technical support. Beautiful and attractive frontend build and powerful & fast backend logic are my major concern.</h4>
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=daskiro514" alt="pro-dev" /></p>
+<div align="center" style="margin-bottom: 40px; margin-top: 40px;">
+  <br>
+  <img src="https://github-profile-trophy.vercel.app?username=daskiro514&theme=onedark&hide_border=true&include_all_commits=true&line_height=27"/>
+  <br>
+  <br>
+</div>
+
+<div align="center" style="witdh:100%"> 
+  <img src = "https://github-readme-stats.vercel.app/api?username=daskiro514&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">  
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=daskiro514&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
+<br><br>
+   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=daskiro514&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27">    
+</div>
+
 <p align="center">
 <a href="https://app.daily.dev/daskiro514"><img src="https://api.daily.dev/devcards/15794676157543b39ea02f4beae323c9.png?r=nly" width="400" alt="Pro Dev's Dev Card"/></a>
 </p>
