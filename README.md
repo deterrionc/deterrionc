@@ -17,9 +17,13 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=daskiro514&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27">    
 </div>
 
-- 💬 Ask me about **Node.js, Selenium, Stripe, React, Solidity, and GraphQL**
+- 💬 Ask me about **Node.js, Python and React**
 
-- 📫 How to reach me **progdev77@gmail.com**
+- 📫 How to reach me **colleen.cl.hillyard@gmail.com**
+
+- 🆔 Linkedin Profile [https://linkedin.com/in/c-hillyard](https://linkedin.com/in/c-hillyard)
+
+- 📄 How to get my career [https://hillyard.netlify.app](https://hillyard.netlify.app)
 
 <div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>  
