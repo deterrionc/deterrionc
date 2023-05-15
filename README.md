@@ -104,7 +104,28 @@
 
 
 <div align="center">
-  <a href="https://app.daily.dev/daskiro514">
-    <img src="https://hillyard.netlify.app/img/daskiro-platinum.png" width="400" alt="Colleen Claire Hillyard's Dev Card"/>
+  <div align="center" style="witdh:50%"> 
+    <a href="https://www.freecodecamp.org/certification/hillyard/responsive-web-design">
+      <img src="https://hillyard.netlify.app/img/reponsive-web-design.PNG" width="500" alt="Colleen Claire Hillyard's Dev Card"/>
+    </a>
+    <a href="https://www.freecodecamp.org/certification/hillyard/javascript-algorithms-and-data-structures">
+      <img src="https://hillyard.netlify.app/img/algorithm-data.PNG" width="500" alt="Colleen Claire Hillyard's Dev Card"/>
+    </a>
+  </div>
+  <a href="https://www.freecodecamp.org/certification/hillyard/front-end-development-libraries">
+    <img src="https://hillyard.netlify.app/img/frontend.PNG" width="500" alt="Colleen Claire Hillyard's Dev Card"/>
+  </a>
+  <a href="https://www.freecodecamp.org/certification/hillyard/data-visualization">
+    <img src="https://hillyard.netlify.app/img/data-visual.PNG" width="500" alt="Colleen Claire Hillyard's Dev Card"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>  
+</div> 
+
+<div align="center">
+  <a href="https://app.daily.dev/cchillyard">
+    <img src="https://hillyard.netlify.app/img/hillyard-legendary.png" width="400" alt="Colleen Claire Hillyard's Dev Card"/>
   </a>
 </div>
