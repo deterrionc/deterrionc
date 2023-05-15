@@ -17,13 +17,13 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=daskiro514&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27">    
 </div>
 
-- 💬 Ask me about **Node.js, Python and React**
+- 💬 Ask me about **React.js, Node.js and Python**
 
-- 📫 How to reach me **colleen.cl.hillyard@gmail.com**
+- 📫 How to reach me **hillyard.colleen@gmail.com**
 
 - 🆔 Linkedin Profile [https://linkedin.com/in/c-hillyard](https://linkedin.com/in/c-hillyard)
 
-- 📄 How to get my career [https://hillyard.netlify.app](https://hillyard.netlify.app)
+- 📄 How to get my career [https://hillyard.netlify.com](https://hillyard.netlify.com)
 
 <div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>  
