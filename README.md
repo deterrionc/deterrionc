@@ -123,6 +123,7 @@
 </div> -->
 
 
+|||
 | ------------- | ------------- |
 | <a href="https://www.freecodecamp.org/certification/hillyard/responsive-web-design"><img src="https://hillyard.netlify.app/img/reponsive-web-design.PNG" width="500" alt="Colleen Claire Hillyard's Dev Card"/></a> | <a href="https://www.freecodecamp.org/certification/hillyard/javascript-algorithms-and-data-structures"><img src="https://hillyard.netlify.app/img/algorithm-data.PNG" width="500" alt="Colleen Claire Hillyard's Dev Card"/></a> |
 | <a href="https://www.freecodecamp.org/certification/hillyard/front-end-development-libraries"><img src="https://hillyard.netlify.app/img/frontend.PNG" width="500" alt="Colleen Claire Hillyard's Dev Card"/></a> | <a href="https://www.freecodecamp.org/certification/hillyard/data-visualization"><img src="https://hillyard.netlify.app/img/data-visual.PNG" width="500" alt="Colleen Claire Hillyard's Dev Card"/></a> |
