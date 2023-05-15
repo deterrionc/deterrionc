@@ -5,16 +5,16 @@
 
 <div align="center" style="margin-bottom: 40px; margin-top: 40px;">
   <br>
-  <img src="https://github-profile-trophy.vercel.app?username=daskiro514&theme=onedark&hide_border=true&include_all_commits=true&line_height=27"/>
+  <img src="https://github-profile-trophy.vercel.app?username=c-hillyard&theme=onedark&hide_border=true&include_all_commits=true&line_height=27"/>
   <br>
   <br>
 </div>
 
 <div align="center" style="witdh:100%"> 
-  <img src = "https://github-readme-stats.vercel.app/api?username=daskiro514&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">  
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=daskiro514&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=c-hillyard&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">  
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=c-hillyard&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
   <br><br>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=daskiro514&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27">    
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=c-hillyard&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27">    
 </div>
 
 - 💬 Ask me about **React.js, Node.js and Python**
