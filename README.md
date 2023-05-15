@@ -103,7 +103,7 @@
 </div> 
 
 
-<div align="center">
+<!-- <div align="center">
   <div align="center" style="witdh:50%"> 
     <a href="https://www.freecodecamp.org/certification/hillyard/responsive-web-design">
       <img src="https://hillyard.netlify.app/img/reponsive-web-design.PNG" width="500" alt="Colleen Claire Hillyard's Dev Card"/>
@@ -120,30 +120,27 @@
       <img src="https://hillyard.netlify.app/img/data-visual.PNG" width="500" alt="Colleen Claire Hillyard's Dev Card"/>
     </a>
   </div>
-</div>
+</div> -->
 
-<div>
+|||
+| ------------- | ------------- |
+| <a href="https://www.freecodecamp.org/certification/hillyard/responsive-web-design"><img src="https://hillyard.netlify.app/img/reponsive-web-design.PNG" width="500" alt="Colleen Claire Hillyard's Dev Card"/></a> | <a href="https://www.freecodecamp.org/certification/hillyard/javascript-algorithms-and-data-structures"><img src="https://hillyard.netlify.app/img/algorithm-data.PNG" width="500" alt="Colleen Claire Hillyard's Dev Card"/></a> |
+| <a href="https://www.freecodecamp.org/certification/hillyard/front-end-development-libraries"><img src="https://hillyard.netlify.app/img/frontend.PNG" width="500" alt="Colleen Claire Hillyard's Dev Card"/></a> | <a href="https://www.freecodecamp.org/certification/hillyard/data-visualization"><img src="https://hillyard.netlify.app/img/data-visual.PNG" width="500" alt="Colleen Claire Hillyard's Dev Card"/></a> |
+
+<!-- <div>
   <div style="witdh:50%">
     <div align="center" style="witdh:95%">
-      <a href="https://www.freecodecamp.org/certification/hillyard/responsive-web-design">
-        <img src="https://hillyard.netlify.app/img/reponsive-web-design.PNG" width="500" alt="Colleen Claire Hillyard's Dev Card"/>
-      </a>
-      <a href="https://www.freecodecamp.org/certification/hillyard/javascript-algorithms-and-data-structures">
-        <img src="https://hillyard.netlify.app/img/algorithm-data.PNG" width="500" alt="Colleen Claire Hillyard's Dev Card"/>
-      </a>
+      <a href="https://www.freecodecamp.org/certification/hillyard/responsive-web-design"><img src="https://hillyard.netlify.app/img/reponsive-web-design.PNG" width="500" alt="Colleen Claire Hillyard's Dev Card"/></a>
+      <a href="https://www.freecodecamp.org/certification/hillyard/javascript-algorithms-and-data-structures"><img src="https://hillyard.netlify.app/img/algorithm-data.PNG" width="500" alt="Colleen Claire Hillyard's Dev Card"/></a>
     </div>
   </div>
   <div style="witdh:50%">
     <div align="center" style="witdh:95%">
-      <a href="https://www.freecodecamp.org/certification/hillyard/front-end-development-libraries">
-        <img src="https://hillyard.netlify.app/img/frontend.PNG" width="500" alt="Colleen Claire Hillyard's Dev Card"/>
-      </a>
-      <a href="https://www.freecodecamp.org/certification/hillyard/data-visualization">
-        <img src="https://hillyard.netlify.app/img/data-visual.PNG" width="500" alt="Colleen Claire Hillyard's Dev Card"/>
-      </a>
+      <a href="https://www.freecodecamp.org/certification/hillyard/front-end-development-libraries"><img src="https://hillyard.netlify.app/img/frontend.PNG" width="500" alt="Colleen Claire Hillyard's Dev Card"/></a>
+      <a href="https://www.freecodecamp.org/certification/hillyard/data-visualization"><img src="https://hillyard.netlify.app/img/data-visual.PNG" width="500" alt="Colleen Claire Hillyard's Dev Card"/></a>
     </div>
   </div>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>  
