@@ -112,16 +112,16 @@
 ## Certifications 🏆
 
 ### React.js
-[![React.js](/img/certification/hkr-react.jpg)](https://www.hackerrank.com/certificates/567c947334d9)
+[![React.js](https://hillyard.netlify.app/img/certification/hkr-react.jpg)](https://www.hackerrank.com/certificates/567c947334d9)
 
 ### Node.js
-[![Node.js](/img/certification/hkr-node.jpg)](https://www.hackerrank.com/certificates/ea99738b71ab)
+[![Node.js](https://hillyard.netlify.app/img/certification/hkr-node.jpg)](https://www.hackerrank.com/certificates/ea99738b71ab)
 
 ### Golang
-[![Golang](/img/certification/hkr-go.jpg)](https://www.hackerrank.com/certificates/4a566aaa700e)
+[![Golang](https://hillyard.netlify.app/img/certification/hkr-go.jpg)](https://www.hackerrank.com/certificates/4a566aaa700e)
 
 ### CSS
-[![CSS](/img/certification/hkr-css.jpg)](https://www.hackerrank.com/certificates/b9af310f8b10)
+[![CSS](https://hillyard.netlify.app/img/certification/hkr-css.jpg)](https://www.hackerrank.com/certificates/b9af310f8b10)
 
 
 <div align="center">
