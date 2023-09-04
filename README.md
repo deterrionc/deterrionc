@@ -106,7 +106,7 @@
 |||
 | ------------- | ------------- |
 | <a href="https://www.freecodecamp.org/certification/hillyard/responsive-web-design"><img src="https://hillyard.netlify.app/img/certification/fcc-reponsive-web-design.png" width="500" alt="SETIMAGE"/></a> | <a href="https://www.freecodecamp.org/certification/hillyard/javascript-algorithms-and-data-structures"><img src="https://hillyard.netlify.app/img/certification/fcc-algorithm-data.png" width="500" alt="SETIMAGE"/></a> |
-| <a href="https://www.freecodecamp.org/certification/hillyard/front-end-development-libraries"><img src="	https://hillyard.netlify.app/img/certification/fcc-frontend.png" width="500" alt="SETIMAGE"/></a> | <a href="https://www.freecodecamp.org/certification/hillyard/data-visualization"><img src="hhttps://hillyard.netlify.app/img/certification/fcc-data-visual.png" width="500" alt="SETIMAGE"/></a> |
+| <a href="https://www.freecodecamp.org/certification/hillyard/front-end-development-libraries"><img src="https://hillyard.netlify.app/img/certification/fcc-frontend.png" width="500" alt="SETIMAGE"/></a> | <a href="https://www.freecodecamp.org/certification/hillyard/data-visualization"><img src="https://hillyard.netlify.app/img/certification/fcc-data-visual.png" width="500" alt="SETIMAGE"/></a> |
 
 <div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>  
