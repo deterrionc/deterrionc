@@ -5,23 +5,23 @@
 
 <div align="center" style="margin-bottom: 40px; margin-top: 40px;">
   <br>
-  <img src="https://github-profile-trophy.vercel.app?username=c-hillyard&theme=onedark&hide_border=true&include_all_commits=true&line_height=27"/>
+  <img src="https://github-profile-trophy.vercel.app?username=deterrionc&theme=onedark&hide_border=true&include_all_commits=true&line_height=27"/>
   <br>
   <br>
 </div>
 
 <div align="center" style="witdh:100%"> 
-  <img src = "https://github-readme-stats.vercel.app/api?username=c-hillyard&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">  
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=c-hillyard&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=deterrionc&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">  
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=deterrionc&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
   <br><br>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=c-hillyard&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27">    
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=deterrionc&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27">    
 </div>
 
 - 💬 Ask me about **React.js, Node.js and Python**
 
 - 📫 How to reach me **hillyard.colleen@gmail.com**
 
-- 🆔 Linkedin Profile [https://linkedin.com/in/c-hillyard](https://linkedin.com/in/c-hillyard)
+- 🆔 Linkedin Profile [https://linkedin.com/in/deterrionc](https://linkedin.com/in/deterrionc)
 
 - 📄 How to get my career [https://hillyard.netlify.com](https://hillyard.netlify.com)
 
@@ -126,4 +126,3 @@
     <img src="https://hillyard.netlify.app/img/certification/daily-hillyard-legendary.png" width="400" alt="SETIMAGE"/>
   </a>
 </div>
-
