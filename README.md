@@ -125,6 +125,6 @@
 
 <div align="center">
   <a href="https://app.daily.dev/cchillyard">
-    <img src="https://deterrion.netlify.app/img/certification/daily-hillyard-legendary.png" width="400" alt="SETIMAGE"/>
+    <img src="https://deterrionc.netlify.app/img/certification/deterrionc.png" width="400" alt="SETIMAGE"/>
   </a>
 </div>
