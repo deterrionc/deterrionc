@@ -17,13 +17,13 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=deterrionc&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27">    
 </div>
 
-- 💬 Ask me about **React.js, Node.js and Python**
+- 💬 Ask me about **React.js, Node.js and Golang**
 
-- 📫 How to reach me **hillyard.colleen@gmail.com**
+- 📫 How to reach me **deterrion.corley.work@gmail.com**
 
 - 🆔 Linkedin Profile [https://linkedin.com/in/deterrionc](https://linkedin.com/in/deterrionc)
 
-- 📄 How to get my career [https://hillyard.netlify.com](https://hillyard.netlify.com)
+- 📄 How to get my career [https://deterrion.netlify.com](https://deterrion.netlify.com)
 
 <div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>  
@@ -109,10 +109,10 @@
 
 |||
 | ------------- | ------------- |
-| <a href="https://www.freecodecamp.org/certification/hillyard/responsive-web-design"><img src="https://hillyard.netlify.app/img/certification/fcc-reponsive-web-design.png" width="500" alt="SETIMAGE"/></a> | <a href="https://www.freecodecamp.org/certification/hillyard/javascript-algorithms-and-data-structures"><img src="https://hillyard.netlify.app/img/certification/fcc-algorithm-data.png" width="500" alt="SETIMAGE"/></a> |
-| <a href="https://www.freecodecamp.org/certification/hillyard/front-end-development-libraries"><img src="https://hillyard.netlify.app/img/certification/fcc-frontend.png" width="500" alt="SETIMAGE"/></a> | <a href="https://www.freecodecamp.org/certification/hillyard/data-visualization"><img src="https://hillyard.netlify.app/img/certification/fcc-data-visual.png" width="500" alt="SETIMAGE"/></a> |
-| <a href="https://www.hackerrank.com/certificates/567c947334d9"><img src="https://hillyard.netlify.app/img/certification/hkr-react.jpg" width="500" alt="SETIMAGE"/></a> | <a href="https://www.hackerrank.com/certificates/ea99738b71ab"><img src="https://hillyard.netlify.app/img/certification/hkr-node.jpg" width="500" alt="SETIMAGE"/></a> |
-| <a href="https://www.hackerrank.com/certificates/4a566aaa700e"><img src="https://hillyard.netlify.app/img/certification/hkr-go.jpg" width="500" alt="SETIMAGE"/></a> | <a href="https://www.hackerrank.com/certificates/b9af310f8b10"><img src="https://hillyard.netlify.app/img/certification/hkr-css.jpg" width="500" alt="SETIMAGE"/></a> |
+| <a href="https://www.freecodecamp.org/certification/deterrionc/responsive-web-design"><img src="https://deterrion.netlify.app/img/certification/fcc-reponsive-web-design.png" width="500" alt="SETIMAGE"/></a> | <a href="https://www.freecodecamp.org/certification/deterrionc/javascript-algorithms-and-data-structures"><img src="https://deterrion.netlify.app/img/certification/fcc-algorithm-data.png" width="500" alt="SETIMAGE"/></a> |
+| <a href="https://www.freecodecamp.org/certification/deterrionc/front-end-development-libraries"><img src="https://deterrion.netlify.app/img/certification/fcc-frontend.png" width="500" alt="SETIMAGE"/></a> | <a href="https://www.freecodecamp.org/certification/deterrionc/data-visualization"><img src="https://deterrion.netlify.app/img/certification/fcc-data-visual.png" width="500" alt="SETIMAGE"/></a> |
+| <a href="https://www.hackerrank.com/certificates/567c947334d9"><img src="https://deterrion.netlify.app/img/certification/hkr-react.jpg" width="500" alt="SETIMAGE"/></a> | <a href="https://www.hackerrank.com/certificates/ea99738b71ab"><img src="https://deterrion.netlify.app/img/certification/hkr-node.jpg" width="500" alt="SETIMAGE"/></a> |
+| <a href="https://www.hackerrank.com/certificates/4a566aaa700e"><img src="https://deterrion.netlify.app/img/certification/hkr-go.jpg" width="500" alt="SETIMAGE"/></a> | <a href="https://www.hackerrank.com/certificates/b9af310f8b10"><img src="https://deterrion.netlify.app/img/certification/hkr-css.jpg" width="500" alt="SETIMAGE"/></a> |
 
 </div>
 
@@ -123,6 +123,6 @@
 
 <div align="center">
   <a href="https://app.daily.dev/cchillyard">
-    <img src="https://hillyard.netlify.app/img/certification/daily-hillyard-legendary.png" width="400" alt="SETIMAGE"/>
+    <img src="https://deterrion.netlify.app/img/certification/daily-hillyard-legendary.png" width="400" alt="SETIMAGE"/>
   </a>
 </div>
